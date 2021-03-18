@@ -1,6 +1,7 @@
 ![Logo](https://i.postimg.cc/qRXTZZ0z/logo-3.png)
 
 [Maxxidata](#Maxxidata)
+[Quem Somos](##quem-somos)
 
 
 ## Maxxidata
@@ -25,20 +26,13 @@ Em menos de 3 anos de vida nosso time já ultrapassou mais de 80 colaboradores d
 
 ### **Valores**
 
- **Cuidar**: Nos preocupamos genuinamente com as pessoas.
-
- **Dialogar**: Ouvir e falar sem medo, de forma honesta e construtiva.
-
- **Sucesso do cliente**: O sucesso do nosso cliente é o nosso sucesso.
-
- **Abraçar as diferenças**: Aqui todos são bem vindos.
-
- **Inovar**: Ser criativo com paixão e energia para resolver problemas e aprender com nossos erros se adaptando a mudanças.
-
- **Integridade**: Sempre fazer a coisa certa de forma ética.
-
- **Orientação a dados**: Explorar o potencial dos dados para tomada de decisão.
-
+- :family: **Cuidar**: Nos preocupamos genuinamente com as pessoas.
+- :speech_balloon: **Dialogar**: Ouvir e falar sem medo, de forma honesta e construtiva.
+- :heavy_check_mark: **Sucesso do cliente**: O sucesso do nosso cliente é o nosso sucesso.
+- :open_hands: **Abraçar as diferenças**: Aqui todos são bem vindos.
+- :recycle: **Inovar**: Ser criativo com paixão e energia para resolver problemas e aprender com nossos erros se adaptando a mudanças.
+- :warning: **Integridade**: Sempre fazer a coisa certa de forma ética.
+- :memo: **Orientação a dados**: Explorar o potencial dos dados para tomada de decisão.
 
 
 ## Desafio
