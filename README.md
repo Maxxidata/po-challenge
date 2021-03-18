@@ -1,7 +1,9 @@
 ![Logo](https://i.postimg.cc/qRXTZZ0z/logo-3.png)
 
-[Maxxidata](#Maxxidata)
-[Quem Somos](##quem-somos)
+- [Maxxidata](#Maxxidata)
+- [Quem Somos](#quem-somos)
+- [Desafio](#desafio)
+- [Documentação e Apresentação](#documentação-e-apresentação)
 
 
 ## Maxxidata
