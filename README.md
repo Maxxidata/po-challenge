@@ -1,4 +1,7 @@
-# Product Owner - Desafio técnico
+![Logo](https://i.postimg.cc/qRXTZZ0z/logo-3.png)
+
+[Maxxidata](#Maxxidata)
+
 
 ## Maxxidata
 
