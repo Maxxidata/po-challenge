@@ -12,7 +12,7 @@ A Maxxidata é uma consultoria com foco em ser a melhor opção de tecnologia e 
 
 Nossa empresa nasceu remote friendly e mesmo nossa sede estando localizada em São Paula a maior quantidade de colaboradores não estão em SP.
 
-Em menos de 3 anos de vida nosso time já ultrapassou mais de 80 colaboradores dos mais diversos perfis técnicos, com horários flexíveis. 
+Em menos de 3 anos de vida nosso time já ultrapassou mais de 80 colaboradores dos mais diversos perfis técnicos e com horários flexíveis. 
 
 
 
