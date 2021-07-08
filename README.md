@@ -68,8 +68,8 @@ Esperamos que como responsável pela condução desse processo que você:
 
 ## Documentação e apresentação
 
-Fique a vontade para descrever e organizar suas ideias em um pequeno documento, busque se antecipar em relação as perguntas que podem ser feitas para você.
+Sugerimos que a apresentação seja realizada utilizando o Miro (https://miro.com/), busque se antecipar em relação as perguntas que podem ser feitas para você.
 
-Você pode usar imagens e gráfico a vontade, porém o mídia principal do documento precisa ser texto.
+Use imagens e gráficos a vontade.
 
 Lembre-se que estamos simulando uma situação real, porém não existem respostas erradas, nosso objetivo é promover uma discussão sobre sua estratégia de condução.
