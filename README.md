@@ -62,6 +62,7 @@ Existem colaboradores em regime CLT e prestadores de serviço em regime PJ.
 Esperamos que como responsável pela condução desse processo que você:
 
 - Refine o problema trazido anteriormente;
+- Entenda e desenhe as personas que utilizarão o produto que você está desenhando;
 - Mapeie os riscos e hipóteses que precisam ser validadas;
 - Defina um MVP com um roadmap de features para validar a solução do problema;
 - Apresente uma proposta mínima de time para viabilizar o desafio;
